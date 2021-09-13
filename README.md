@@ -27,3 +27,4 @@ We will use BERT to train a text classifier. Specifically, we will take the pre-
 
 
 
+Refer to complete solution [here](https://github.com/krishnarevi/Sentence_Classification_BERT/blob/main/BERT_Fine_Tuning_Sentence_Classification.ipynb) 
